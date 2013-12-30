@@ -1,0 +1,8 @@
+---
+applications:
+- name: jd
+  memory: 256M
+  instances: 1
+  host: hyb
+  domain: jd-app.com
+  path: .
